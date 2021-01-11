@@ -18,7 +18,7 @@ Hit me up for collaborations,competitions and coding.
     *  [On wordpress](https://heyfolk.home.blog/)
     *  [![Gmail Badge](https://img.shields.io/badge/-sreeranjanibabu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreeranjanibabu@gmail.com)](mailto:sreeranjanibabu@gmail.com)
     *  [On my website](http://sreeranjani.pythonanywhere.com/)
-- 😄 Favorite words: **Petrichor, Hiraeth, Epiphany, Selcouth**
+- 😄 Favorite words: **Petrichor, Hiraeth, Epiphany, Maktub**
 - ⚡ Moto: **Life is a game of Tetris,stop playing it like Chess.**  
 - 🔭 I’ve familiar working with  
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
